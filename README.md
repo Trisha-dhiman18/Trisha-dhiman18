@@ -9,7 +9,7 @@ I'm also a **Summer Intern at CodroidHub**, where I'm gaining real-time experien
 ## 🌱 Currently Learning
 
 - **Python Programming** for Data Science and Machine Learning
-- Libraries like **NumPy, Pandas, Matplotlib, Scikit-learn**
+- Libraries like **NumPy, Pandas, Scikit-learn**
 - **Jupyter Notebooks** & **Google Colab** for project development
 - Basics of **Machine Learning** and **Data Analysis**
 
