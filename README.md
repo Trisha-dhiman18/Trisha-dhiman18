@@ -34,7 +34,7 @@ I believe in learning by doing. Here's one of my recent beginner-level programmi
 
 I'm always open to connecting with fellow learners, mentors, and tech professionals.
 
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/trisha-dhiman-b272b3378)
+- 🔗 [LinkedIn Profile]([www.linkedin.com/in/trisha-dhiman-b272b3378](https://www.linkedin.com/in/trisha-dhiman-b272b3378/))
 
 Thank you for visiting my GitHub! 😊  
 Feel free to explore my work and reach out anytime.
