@@ -2,7 +2,7 @@
 
 I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning (AIML)**. Currently, I'm exploring the world of AI/ML through hands-on projects and practical learning.
 
-I'm also a **Summer Intern at CodroidHub**, where I'm gaining real-time experience and building my foundational skills.
+I'm also a **Summer Trainee at CodroidHub**, where I'm gaining real-time experience and building my foundational skills.
 
 ---
 
