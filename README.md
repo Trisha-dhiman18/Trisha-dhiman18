@@ -38,6 +38,3 @@ I'm always open to connecting with fellow learners, mentors, and tech profession
 
 Thank you for visiting my GitHub! 😊  
 Feel free to explore my work and reach out anytime.
-
-
-
