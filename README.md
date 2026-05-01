@@ -15,11 +15,6 @@ I'm also a **Summer Trainee at CodroidHub**, where I'm gaining real-time experie
 
 ---
 
-## 🧠 Projects
-
-I believe in learning by doing. Here's one of my recent beginner-level programming
-
----
 
 ## 🎯 My Goals
 
